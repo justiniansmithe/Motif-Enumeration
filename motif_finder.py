@@ -1,6 +1,6 @@
 '''
 Code by Justin Smith written for rosalind.info
-Solves the Motiff Enumeration Problem
+Solves the Motiff Enumeration Problem with python2.7
 
 from rosalind:
 ---------------------------------------------------------
